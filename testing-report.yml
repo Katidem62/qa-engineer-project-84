@@ -6,3 +6,8 @@
 - summary: |
     Проверка фильтра по категории
   status: pass
+
+- summary: |
+    Проверка фильтра по категории
+  status: pass
+

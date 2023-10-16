@@ -70,3 +70,5 @@
     Заказ оформлен и на вкладке Network Код 200 OK 
   expected-result: |
     Заказ оформлен и на вкладке Network Код 200 OK 
+  expected-result: |
+    

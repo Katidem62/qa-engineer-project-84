@@ -21,4 +21,4 @@
 
 - summary: |
     Проверка процесса передачи данных HTTPS
-  status: failed
+  status: fail

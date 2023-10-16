@@ -18,3 +18,7 @@
 - summary: |
     Проверка фильтра по цене
   status: pass
+
+- summary: |
+   Проверка процесса передачи данных HTTPS
+   status: failed

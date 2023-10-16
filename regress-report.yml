@@ -20,6 +20,10 @@ test-cases:
       Проверка фильтра по цене
     status: pass
 
+  - summary: |
+      Проверка процесса передачи данных HTTPS
+    status: fail
+
 bugreports:
   - summary: |
       Не переводится весь текст при смене языка на Русский
